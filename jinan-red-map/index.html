@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>济南红色地图 - 铭记历史，传承精神</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- 自定义CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- 开场视频 -->
+    <div id="intro-video-container">
+        <video id="intro-video" autoplay muted playsinline>
+            <source src="assets/video/intro.mp4" type="video/mp4">
+            <source src="assets/video/intro.webm" type="video/webm">
+            您的浏览器不支持视频播放。
+        </video>
+        <div id="title-overlay">铭记历史，传承精神</div>
+        <div id="skip-button">点击跳过</div>
+    </div>
+
+    <!-- 主地图容器 -->
+    <div id="map-container" style="display: none;">
+        <!-- 控制面板 -->
+        <div id="control-panel">
+            <div class="control-group">
+                <button id="zoom-in" class="control-btn">+</button>
+                <button id="zoom-out" class="control-btn">-</button>
+                <button id="music-toggle" class="control-btn">🔊</button>
+                <button id="voice-settings-btn" class="control-btn">⚙️</button>
+                <button id="boundary-toggle" class="control-btn">🗺️</button>
+            </div>
+            <div class="info-text">可点击按钮关闭背景音乐，点击图中点查看文字介绍，可在设置中调节朗读声音</div>
+        </div>
+
+        <!-- 语音设置面板 -->
+        <div id="voice-settings" class="settings-panel">
+            <h4>语音设置</h4>
+            <div class="setting-item">
+                <label>语速:</label>
+                <input type="range" id="voice-rate" min="0.5" max="2" step="0.1" value="0.85">
+                <span id="rate-value">0.85</span>
+            </div>
+            <div class="setting-item">
+                <label>音调:</label>
+                <input type="range" id="voice-pitch" min="0.5" max="2" step="0.1" value="1.1">
+                <span id="pitch-value">1.1</span>
+            </div>
+            <div class="setting-item">
+                <label>音量:</label>
+                <input type="range" id="voice-volume" min="0.1" max="1" step="0.1" value="0.9">
+                <span id="volume-value">0.9</span>
+            </div>
+            <button id="close-settings">完成</button>
+        </div>
+
+        <!-- 边界控制面板 -->
+        <div id="boundary-panel" class="boundary-panel">
+            <h4>边界显示控制</h4>
+            <div class="boundary-item">
+                <input type="checkbox" id="shandong-boundary" checked>
+                <span class="boundary-color" style="background-color: #ff0000;"></span>
+                <label for="shandong-boundary">山东省边界</label>
+            </div>
+            <div class="boundary-item">
+                <input type="checkbox" id="jinan-boundary" checked>
+                <span class="boundary-color" style="background-color: #0000ff;"></span>
+                <label for="jinan-boundary">济南市边界</label>
+            </div>
+            <button id="close-boundary-panel">完成</button>
+        </div>
+
+        <!-- 地图 -->
+        <div id="map"></div>
+
+        <!-- 图例 -->
+        <div id="legend">
+            <h4>图例</h4>
+            <div class="legend-item">
+                <img src="assets/images/markers/p5.png" alt="济南市" class="legend-icon">
+                <span>济南市</span>
+            </div>
+            <div class="legend-item">
+                <img src="assets/images/markers/p1.png" alt="革命纪念馆" class="legend-icon">
+                <span>红色纪念馆</span>
+            </div>
+            <div class="legend-item">
+                <img src="assets/images/markers/p2.png" alt="烈士陵园" class="legend-icon">
+                <span>烈士陵园</span>
+            </div>
+            <div class="legend-item">
+                <img src="assets/images/markers/p3.png" alt="红色遗址" class="legend-icon">
+                <span>红色遗址</span>
+            </div>
+            <div class="legend-item">
+                <img src="assets/images/markers/p4.png" alt="纪念碑" class="legend-icon">
+                <span>纪念碑</span>
+            </div>
+        </div>
+
+        <!-- 信息弹窗 -->
+        <div id="info-popup" class="popup-hidden">
+            <div id="popup-content"></div>
+            <div class="popup-buttons">
+                <button id="close-popup">关闭</button>
+                <button id="read-aloud">朗读</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- 自定义JS -->
+    <script src="js/typing-effect.js"></script>
+    <script src="js/voice-service.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

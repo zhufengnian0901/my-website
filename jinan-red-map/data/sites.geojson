@@ -1,0 +1,1142 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.689736,
+          36.182348
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "安仙村烈士纪念碑",
+        "type": "site",
+        "description": "纪念在安仙村地区牺牲的烈士的纪念碑。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.016335,
+          36.66321
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "趵突泉-济南惨案纪念堂",
+        "type": "museum",
+        "description": "位于趵突泉公园内，纪念1928年5月3日日本帝国主义在济南制造的“五三惨案”（或称“济南惨案”）。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.63283,
+          36.343082
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "大峰山革命根据地纪念馆",
+        "type": "museum",
+        "description": "位于济南市长清区，主要纪念和展示抗日战争时期在大峰山建立的、由中共领导的鲁西（或长清）抗日根据地的历史。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.636444,
+          36.341819
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "大峰山革命烈士陵园",
+        "type": "cemetery",
+        "description": "指济南长清的大峰山。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.016533,
+          36.673395
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "大明湖景区-毛主席诗词纪念碑",
+        "type": "museum",
+        "description": "位于大明湖畔，刻有毛泽东主席与济南相关的诗词，是缅怀伟人、感受诗词文化的场所。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.814453,
+          36.51443
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "大彦抗日武装殉难纪念亭",
+        "type": "museum",
+        "description": "纪念在大彦地区为抗击日寇而牺牲的抗日武装成员的纪念亭。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.02033,
+          36.702449
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "党史纪念地雕塑",
+        "type": "museum",
+        "description": "广义上指在某一具有党史意义的地点设立的雕塑，具体地点需根据实物确定，用于纪念和弘扬中国共产党的光辉历史。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.55592,
+          36.129572
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "董宪勋纪念馆",
+        "type": "museum",
+        "description": "纪念董宪勋，他是抗日战争时期胶东地区重要的革命领导人、抗日英雄。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.581426,
+          36.32091
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "二十四烈士纪念碑",
+        "type": "museum",
+        "description": "为纪念某次战斗或事件中牺牲的二十四位烈士而建立的纪念碑。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.302969,
+          36.518687
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "佛峪革命遗址",
+        "type": "site",
+        "description": "位于济南市，是革命战争年代某一时期或某一事件的革命活动旧址。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.732475,
+          36.117275
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "钢城区澜头知青大院",
+        "type": "site",
+        "description": "位于钢城区，是知识青年上山下乡时期在瀛头村居住、生活、劳动的旧址。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.636465,
+          36.341884
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "革命英雄纪念碑",
+        "type": "museum",
+        "description": "广义指为纪念革命英雄而建立的纪念碑。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.454444,
+          36.621956
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "郭恒祥烈士纪念碑",
+        "type": "museum",
+        "description": "纪念郭恒祥烈士的纪念碑。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.044377,
+          36.640184
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "何烈士凤翔之墓",
+        "type": "museum",
+        "description": "纪念何凤翔烈士的墓地。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.708073,
+          36.119968
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "红日红色文化博物馆(济南市钢城区)",
+        "type": "museum",
+        "description": "位于济南市钢城区，展示当地红色革命历史和文化，进行爱国主义教育。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.496841,
+          36.810864
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "红色革命博物馆",
+        "type": "museum",
+        "description": "指专门展示中国共产党领导下的革命历史和文物的博物馆。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.002348,
+          36.639741
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "济南革命烈士陵园",
+        "type": "cemetery",
+        "description": "位于英雄山，为纪念解放济南战役中牺牲的华东野战军官兵而建，也是全国重点烈士纪念建筑物保护单位。园内设有革命烈士纪念塔、纪念馆和烈士墓区。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.03364,
+          36.662981
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "济南解放纪念馆",
+        "type": "museum",
+        "description": "位于济南市英雄山之巅，是纪念济南解放的标志性建筑，同时也是济南战役的制高点旧址。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.730961,
+          36.119521
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "济南市钢城区颜庄街道处涧头抗日战斗遗址",
+        "type": "site",
+        "description": "位于钢城区，是抗日战争时期当地军民进行重要抗日战斗的发生地。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.970475,
+          36.650021
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "济南市雷锋纪念馆",
+        "type": "museum",
+        "description": "位于济南市，用于弘扬和宣传雷锋精神，进行爱国主义和道德教育。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.00267,
+          36.640138
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "济南战役纪念馆",
+        "type": "museum",
+        "description": "位于济南市，纪念和展示济南战役（1948年，解放战争时期华东野战军攻克济南的战役）的经过、意义及人民解放军的英勇事迹。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.033939,
+          36.663116
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "解放阁-解放济南战役革命烈士纪念碑",
+        "type": "museum",
+        "description": "位于济南市区，解放阁是解放济南战役的纪念地，纪念碑位于其附近，纪念战役中牺牲的革命烈士。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.087964,
+          36.666345
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "解放济南战役茂岭山战场遗址",
+        "type": "site",
+        "description": "位于济南市茂岭山，是解放济南战役中的一处重要攻坚战遗址，具有重要的历史纪念意义。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.572798,
+          36.714807
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "抗美援朝时用过的窑池",
+        "type": "site",
+        "description": "一处特殊历史遗迹，在抗美援朝战争时期，曾用于接待或安置志愿军相关人员的住宿场所。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.693158,
+          36.217737
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "抗日碑群",
+        "type": "museum",
+        "description": "抗日纪念碑群"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.693198,
+          36.217443
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "抗日阵亡烈士纪念碑",
+        "type": "museum",
+        "description": "指纪念在抗日战争中牺牲的烈士的纪念性建筑。图中的具体位置可能指济南或周边地区的抗战纪念碑，用于缅怀抗战英烈。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.88772,
+          36.309626
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "莱东抗日战争纪念馆",
+        "type": "museum",
+        "description": "位于济南市莱芜区（原莱东县），主要展示和纪念莱东地区军民在抗日战争中的英勇斗争历史。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.88782,
+          36.307503
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "莱东战役纪念馆",
+        "type": "museum",
+        "description": " 位于莱芜区，主要纪念和展示莱芜战役的历史。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.717018,
+          36.223373
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "莱芜战役纪念馆 / 莱芜战役指挥所旧址纪念馆",
+        "type": "museum",
+        "description": "位于山东省济南市莱芜区，主要纪念和展示莱芜战役（1947年，解放战争时期华东野战军在山东莱芜地区进行的一次重要战役）的历史进程和辉煌胜利。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.692711,
+          36.217053
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "老战士纪念馆",
+        "type": "museum",
+        "description": "广义上指用于纪念为国家做出贡献的退役老兵或老干部的场所，通常陈列其事迹和历史照片。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.583364,
+          36.322917
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "李敬铨烈士故居",
+        "type": "site",
+        "description": "纪念和展示李敬铨烈士（革命战争中牺牲的英雄）生平事迹的故居。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.014446,
+          36.660424
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "name": "历城党史教育馆",
+        "type": "museum",
+        "description": "位于历城区，展示历城区地方党组织的百年奋斗历程和重大成就。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.231431,
+          36.689021
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "历城革命烈士纪念馆",
+        "type": "museum",
+        "description": "位于济南市历城区，用于纪念历城地区在各个革命历史时期牺牲的革命烈士。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.153159,
+          36.701987
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "烈士陵园(环城南路)",
+        "type": "cemetery",
+        "description": "位于济南市区环城南路附近，是一处重要的烈士纪念设施。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.734297,
+          36.550919
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "鲁中抗日战争展览馆",
+        "type": "museum",
+        "description": "展示鲁中地区军民在抗日战争中的历史和事迹的展览馆。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.693286,
+          36.216558
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "泺口九烈士纪念碑",
+        "type": "museum",
+        "description": "位于济南市天桥区泺口，纪念1933年被国民党反动派杀害的9位早期共产党员，他们在刑场高呼口号、英勇就义。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.978738,
+          36.724845
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "毛泽东视察济南黄河纪念地",
+        "type": "museum",
+        "description": "位于济南市黄河沿岸，纪念毛泽东主席曾视察黄河，并发出“要把黄河的事情办好”的伟大号召的历史时刻。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.981663,
+          36.724403
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "民兵烈士碑",
+        "type": "museum",
+        "description": "位于莱芜区茶业口镇吉山村，建于1944年，是为纪念在抗日战争中牺牲的茶业峪民兵烈士而立的纪念碑。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.45061,
+          36.290498
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "平阴县第一个党支部纪念馆",
+        "type": "museum",
+        "description": "位于济南市平阴县，纪念和展示平阴县建立第一个中国共产党支部的历史，是平阴县党组织的诞生地。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.571605,
+          36.314487
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "平阴县抗日民主政府诞生地",
+        "type": "museum",
+        "description": "纪念和展示平阴县抗日民主政府成立（中国共产党在当地领导的第一个抗日政权）的历史旧址。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.420901,
+          36.107034
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "平阴县烈士陵园",
+        "type": "cemetery",
+        "description": "位于平阴县，是纪念平阴县域革命烈士的重要场所。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4443,
+          36.259788
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "鹊山惨案纪念地",
+        "type": "museum",
+        "description": "位于济南市北部鹊山地区，是纪念抗日战争时期日军在鹊山地区制造的残忍屠杀事件的场所。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.059972,
+          36.676662
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "山东红色金融博物馆",
+        "type": "museum",
+        "description": "位于济南，展示中国共产党领导下的山东地区金融发展史，特别是革命根据地金融史。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.06838,
+          36.699032
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "name": "山东建团纪念馆",
+        "type": "museum",
+        "description": "位于济南，是中国社会主义青年团（中国共产主义青年团前身）山东地方组织成立的旧址，标志着共青团组织在山东的开端。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.003036,
+          36.658182
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "山东老战士纪念园",
+        "type": "museum",
+        "description": "位于济南市，是一座集纪念、教育、缅怀功能于一体的纪念性公园，安葬或纪念了为新中国做出贡献的山东籍老战士、老同志。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.581589,
+          36.318458
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "山东省委旧址暨八路军山东抗日游击第四支队司令部旧址",
+        "type": "site",
+        "description": "位于新泰市，是中共山东省委机关旧址，同时也是八路军山东抗日游击第四支队司令部驻地。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.166979,
+          37.286233
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "商河县党史馆",
+        "type": "museum",
+        "description": "位于商河县，展示商河县域地方党组织的斗争史和建设史。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.169963,
+          37.255244
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "商河县烈士陵园",
+        "type": "cemetery",
+        "description": "位于商河县，始建于1967年，设有纪念塔、纪念堂和烈士墓区，是商河县开展爱国主义教育的重要阵地。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.153479,
+          37.304864
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "name": "神武革命烈士墓",
+        "type": "cemetery",
+        "description": "纪念神武地区革命烈士的墓地。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.234221,
+          36.647685
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "圣井村革命烈士纪念碑",
+        "type": "museum",
+        "description": "位于章丘圣井村，为纪念在革命战争中牺牲的本地烈士而建，是当地重要的爱国主义教育基地。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.530029,
+          36.150074
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "史元厚烈士纪念堂",
+        "type": "museum",
+        "description": "位于济南市长清区，纪念史元厚烈士（抗美援朝英雄，为抢救朝鲜落水儿童而牺牲）的英雄事迹。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.733052,
+          36.403544
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "算盘革命遗址",
+        "type": "site",
+        "description": "位于济南市南部山区西营镇算盘村的八路军山东纵队四支队战时医院及修械所旧址"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.270398,
+          36.477809
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "魏金三故居",
+        "type": "site",
+        "description": "八路军冀鲁豫军区第八军分区政治部主任的故居"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.01463,
+          36.66456
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "name": "西抬头抗日烈士纪念碑",
+        "type": "museum",
+        "description": "为纪念在抗日战争中于西抬头地区牺牲的烈士而建的纪念碑。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.62909,
+          36.415625
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "name": "辛亥革命烈士陵园",
+        "type": "cemetery",
+        "description": "纪念在辛亥革命及其后续斗争中牺牲的烈士，是缅怀近代民主革命先驱的场所。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.043855,
+          36.640037
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "name": "一门三烈士纪念碑",
+        "type": "museum",
+        "description": "纪念同一家庭中三位成员为革命事业英勇牺牲的事迹，体现了革命的奉献精神。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.268823,
+          36.167645
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "name": "张坊农村改革纪念馆",
+        "type": "museum",
+        "description": "位于章丘区张坊镇，是纪念中国农村改革进程中，张坊地区或某一重要事件的纪念馆。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.665868,
+          36.132814
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "name": "张俊三烈士墓",
+        "type": "cemetery",
+        "description": "纪念张俊三烈士的墓地。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.647341,
+          36.790061
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "name": "章丘第一支抗日武装纪念馆",
+        "type": "museum",
+        "description": "位于济南市章丘区，纪念和展示章丘地区最早组建的抗日武装的历史，突出地方党组织领导抗日救亡的贡献。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.631377,
+          36.636262
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "name": "章丘烈士陵园",
+        "type": "cemetery",
+        "description": "位于章丘区，是章丘县域革命烈士的安葬和纪念场所。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.375575,
+          36.788307
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "name": "章丘区龙山街道黄泰院烈士陵园",
+        "type": "红色遗址",
+        "description": "位于章丘龙山街道，是黄泰院地区革命烈士的纪念陵园。",
+        "yunjinDialogue": "章丘区龙山街道黄泰院烈士陵园，这是一处重要的红色文化遗址，承载着革命先烈的英勇事迹。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.735576,
+          36.551263
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "name": "长清区石麟山革命烈士陵园",
+        "type": "cemetery",
+        "description": "位于长清区石麟山，是长清区革命烈士的集中安葬和纪念地。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.044484,
+          36.640135
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "name": "赵烈士金漳之墓",
+        "type": "cemetery",
+        "description": "纪念赵金漳烈士的墓地。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.027334,
+          36.684341
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "name": "中共济南乡师历史陈列室",
+        "type": "museum",
+        "description": "展示中国共产党在济南乡村师范教育领域开展革命活动的历史。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.014875,
+          36.664388
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "name": "中共山东早期历史纪念馆",
+        "type": "museum",
+        "description": "位于济南市五龙潭公园附近，以中共山东省委机关旧址为核心，主要展示中国共产党在山东的早期历史（大革命时期至抗日战争初期）及其发展历程。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.021267,
+          36.672938
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "name": "中国人民抗日战争胜利山东战区受降旧址",
+        "type": "site",
+        "description": "位于济南，是中国战区日本投降仪式中，山东战区日军代表签署受降书的旧址。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.9902,
+          36.661257
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "name": "中山公园-孙中山先生生平展",
+        "type": "museum",
+        "description": "位于济南市中山公园内，通过展览形式介绍中国民主革命先行者孙中山先生的生平、思想及革命活动。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.465319,
+          36.095881
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "name": "重崖山烈士纪念碑",
+        "type": "museum",
+        "description": "为纪念在重崖山地区牺牲的烈士而建的纪念碑。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.983532,
+          36.660429
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "name": "周恩来同志1946年视察北平军调部济南执行小组纪念地",
+        "type": "site",
+        "description": "纪念周恩来同志于1946年视察北平军调部济南执行小组的历史事件旧址。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.296686,
+          36.490325
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "name": "醉美西营·胡芦峪革命遗址",
+        "type": "site",
+        "description": "位于济南市莱芜区，是革命战争时期某一重要地点的遗址。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.238997,
+          36.446017
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "name": "醉美西营·上降甘革命遗址",
+        "type": "site",
+        "description": "位于济南市莱芜区，是革命战争时期某次重要战斗或根据地活动的遗址。"
+      }
+    }
+  ]
+}
